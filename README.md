@@ -1,6 +1,6 @@
 # sample-external-issuer
 
-This is an example of an [External Issuer] for cert-manager.
+This is an example of an [External Issuer] for cert-manager. 
 
 ## Install
 
